@@ -2,7 +2,7 @@
 
 Curse Forge Launcher herunterladen und ATM 8 Modpack installieren
 
-Mods aus dem Repository in diesen Ordner installieren
+Mods aus dem Repository dort unter ./mods installieren
 ![](https://i.imgur.com/rnSnJGd.png)
 
 RAM hochschrauben
